@@ -1,1 +1,2 @@
+-cmd cd pi_xyHaxeFlixelTest
 -cmd git submodule update --init --recursive
