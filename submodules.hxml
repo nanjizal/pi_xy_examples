@@ -1,3 +1,0 @@
--cmd cd submodule_examples
--cmd cd pi_xyHaxeFlixelTest
--cmd git clone --recursive 'https://github.com/nanjizal/pi_xyHaxeFlixelTest'
