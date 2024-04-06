@@ -13,3 +13,6 @@ https://github.com/nanjizal/
 - pi_xyHeapsTest  
 - pi_xyLimeTest  
 - pi_xyPeoteTest  
+- pi_xyOpenflTest  
+- pi_xyCanvasTest  
+  

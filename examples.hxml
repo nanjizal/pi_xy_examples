@@ -2,3 +2,5 @@
 -cmd git clone 'https://github.com/nanjizal/pi_xyHeapsTest'
 -cmd git clone 'https://github.com/nanjizal/pi_xyLimeTest'
 -cmd git clone 'https://github.com/nanjizal/pi_xyPeoteTest'
+-cmd git clone 'https://github.com/nanjizal/pi_xyOpenflTest'
+-cmd git clone 'https://github.com/nanjizal/pi_xyCanvasTest.git'
