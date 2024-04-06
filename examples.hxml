@@ -1,4 +1,4 @@
--cmd git clone --recursive 'https://github.com/nanjizal/pi_xyHaxeFlixelTest'
--cmd git clone --recursive 'https://github.com/nanjizal/pi_xyHeapsTest'
--cmd git clone --recursive 'https://github.com/nanjizal/pi_xyLimeTest'
--cmd git clone --recursive 'https://github.com/nanjizal/pi_xyPeoteTest'
+-cmd git clone 'https://github.com/nanjizal/pi_xyHaxeFlixelTest'
+-cmd git clone 'https://github.com/nanjizal/pi_xyHeapsTest'
+-cmd git clone 'https://github.com/nanjizal/pi_xyLimeTest'
+-cmd git clone 'https://github.com/nanjizal/pi_xyPeoteTest'
