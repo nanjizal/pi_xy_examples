@@ -9,10 +9,11 @@
 # examples  
 https://github.com/nanjizal/
 
-- pi_xyHaxeFlixelTest  currently empty need to sort out flixel setup with latest haxe.  
+- pi_xyHaxeFlixelTest 
 - pi_xyHeapsTest  
 - pi_xyLimeTest  
 - pi_xyPeoteTest  
 - pi_xyOpenflTest  
-- pi_xyCanvasTest  
+- pi_xyCanvasTest
+- pi_xyStarlingTest
   
