@@ -4,3 +4,4 @@
 -cmd git clone 'https://github.com/nanjizal/pi_xyPeoteTest'
 -cmd git clone 'https://github.com/nanjizal/pi_xyOpenflTest'
 -cmd git clone 'https://github.com/nanjizal/pi_xyCanvasTest.git'
+-cmd git clone 'https://github.com/nanjizal/pi_xyStarlingTest.git'
